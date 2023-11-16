@@ -1,0 +1,9 @@
+REST
+openapi yaml
+
+https://en.wikipedia.org/wiki/YAML
+Two features that distinguish YAML from the capabilities of other data-serialization languages are structures[24] and data typing.
+
+YAML structures enable storage of multiple documents within a single file, usage of references for repeated nodes, and usage of arbitrary nodes as keys.
+
+YAML autodetects the datatype of the entity, but sometimes one wants to cast the datatype explicitly.
